@@ -1,0 +1,17 @@
+{"properties": [
+  {
+    "name": "kafka.topic.boot",
+    "type": "java.lang.String",
+    "description": "A description for 'kafka.topic.boot'"
+  },
+  {
+    "name": "kafka.topic",
+    "type": "java.lang.String",
+    "description": "A description for 'kafka.topic'"
+  },
+  {
+    "name": "kafka_topic",
+    "type": "java.lang.String",
+    "description": "A description for 'kafka_topic'"
+  }
+]}
